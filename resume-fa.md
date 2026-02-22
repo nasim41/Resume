@@ -21,7 +21,7 @@ body{
 
 ---
 + توسعه به زبان های Asp.net core(web apps),c#(winform apps),java(android apps),c,c++,php,python
-+ تست Automation test (Selenium WebDriver),Stress test,load test(Apache JMeter),DB test(SQL Profiler),Security test(Acunetix)
++ تست Automation test (Selenium Web Driver),Stress test,load test(Apache JMeter),DB test(SQL Profiler),Security test(Acunetix)
 + توسعه frontend  و backend (فول استک)
 + معمار داده ، تحلیلگر داده، طراح مدل داده ، داده کاوی ، متن کاوی
 + مفاهیم Network,Software Architecture,Software Life Cycle,Product Management,OOP,TDD,BDD
