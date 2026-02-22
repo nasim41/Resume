@@ -19,7 +19,7 @@
 ---
 + Development with Asp.net core(web apps),c#(winform apps),java(android apps),c,c++,php,python
 + frontend and backend development(Full Stack Development)
-+ Automation Test(Selenium WebDriver),Stress test,Load test(Apache JMeter),DB test(SQL Profiler),Security test(Acunetix)
++ Automation Test(Selenium Web Driver),Stress test,Load test(Apache JMeter),DB test(SQL Profiler),Security test(Acunetix)
 + Data architecture,Data analyzer,Data model designer,Data Mining,Text Mining
 + Concepts of OOP,TDD,BDD,Software Architecture,Product Management,Network
 
